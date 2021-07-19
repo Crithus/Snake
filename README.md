@@ -1,5 +1,5 @@
 # Snake
-This is the classic Snake game that I coded as an assignment for my C++ lecture in college.
+This is the classic Snake game that I created as an assignment for my C++ lecture in college.
 
 ## Compile
 
